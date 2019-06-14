@@ -7,7 +7,13 @@ Bubble Plot showing:
 - Total Number of Drivers Per City
 - City Type (Urban, Suburban, Rural)
 
+![Bubble Plot](Images/PyberScatter.png)
+
 Pie Charts on the following:
 - % of Total Fares by City Type
 - % of Total Rides by City Type
 - % of Total Drivers by City Type
+
+![Fares](Images/PyberPieFares.png)
+![Rides](Images/PyberPieRides.png)
+![Drivers](Images/PyberPieDrivers.png)
